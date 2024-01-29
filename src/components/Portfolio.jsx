@@ -10,21 +10,21 @@ const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: exercise,
-      href: 'https://github.com/singh-gurkawalbir/Gym_Exercises',
-      href2: 'https://csb-2pkxvl-h5x0ddeqy-gurkawalbir.vercel.app',
-    },
-    {
-      id: 2,
       src: myuSync,
       href: 'https://github.com/singh-gurkawalbir/myuSync',
       href2: 'https://myu-sync.web.app/',
     },
     {
-      id: 3,
+      id: 2,
       src: Gericht,
       href: 'https://github.com/singh-gurkawalbir/Restaurant',
       href2: 'https://restaurant-nine-hazel.vercel.app/',
+    },
+    {
+      id: 3,
+      src: Password,
+      href: 'https://github.com/singh-gurkawalbir/password-generator',
+      href2: 'https://password-generator-pied-phi.vercel.app/',
     },
     {
       id: 4,
@@ -34,15 +34,15 @@ const Portfolio = () => {
     },
     {
       id: 5,
-      src: Redux,
-      href: 'https://github.com/singh-gurkawalbir/redux_example',
-      href2: 'https://redux-example-six.vercel.app/',
+      src: exercise,
+      href: 'https://github.com/singh-gurkawalbir/Gym_Exercises',
+      href2: 'https://csb-2pkxvl-h5x0ddeqy-gurkawalbir.vercel.app',
     },
     {
       id: 6,
-      src: Password,
-      href: 'https://github.com/singh-gurkawalbir/password-generator',
-      href2: 'https://password-generator-pied-phi.vercel.app/',
+      src: Redux,
+      href: 'https://github.com/singh-gurkawalbir/redux_example',
+      href2: 'https://redux-example-six.vercel.app/',
     },
   ];
 
